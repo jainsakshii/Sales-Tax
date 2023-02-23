@@ -1,8 +1,6 @@
 $shop = { "book" => 12.49, "music CD" => 14.99, "chocolate bar" => 0.85,
   "imported chocolate" => 10.00, "imported perfume" => 47.50,"bottle perfume" => 18.99,
   "headache pills" => 9.75,"burger" => 19.00 }       
-  
-
 class Display
   def initialize
     puts `clear`
